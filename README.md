@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Gotham 🌟<br><br>🧠 Computer Science student as Manipal University Jaipur <br/><br>💻 I specialize in Artificial Intelligence and Machine Learning <br/><br>👨🏻‍💻 I'm passionate about tech and all things AI <br/><br>💖 Follow along for projects on Artificial Intelligence and Machine Learning <br/>
+Hi I'm Gotham 🌟<br><br>🧠 Computer Science student as Manipal University Jaipur <br/><br>💻 I specialize in Artificial Intelligence and Machine Learning <br/><br>👨🏻‍💻 I'm passionate about applying tech stacks to real life use cases<br/><br>💖 Follow along for projects on Artificial Intelligence and Machine Learning <br/>
 
 
 # 💻 Tech Stack:
